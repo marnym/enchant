@@ -1,4 +1,4 @@
-package dev.nyman.enchant.kotlin.jna
+package dev.nyman.enchant.jna
 
 import com.sun.jna.Library
 import com.sun.jna.ptr.IntByReference

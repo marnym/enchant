@@ -1,9 +1,9 @@
-package dev.nyman.enchant.kotlin
+package dev.nyman.enchant
 
 import com.sun.jna.Native
-import dev.nyman.enchant.kotlin.jna.EnchantBrokerStruct
-import dev.nyman.enchant.kotlin.jna.EnchantDictStruct
-import dev.nyman.enchant.kotlin.jna.EnchantLib
+import dev.nyman.enchant.jna.EnchantBrokerStruct
+import dev.nyman.enchant.jna.EnchantDictStruct
+import dev.nyman.enchant.jna.EnchantLib
 
 const val LIB_NAME = "enchant-2"
 

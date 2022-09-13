@@ -1,4 +1,4 @@
-package dev.nyman.enchant.kotlin.jna
+package dev.nyman.enchant.jna
 
 import com.sun.jna.Pointer
 import com.sun.jna.Structure

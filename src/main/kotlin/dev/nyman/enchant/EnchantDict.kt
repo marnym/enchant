@@ -1,8 +1,8 @@
-package dev.nyman.enchant.kotlin
+package dev.nyman.enchant
 
 import com.sun.jna.ptr.IntByReference
-import dev.nyman.enchant.kotlin.jna.EnchantDictStruct
-import dev.nyman.enchant.kotlin.jna.EnchantLib
+import dev.nyman.enchant.jna.EnchantDictStruct
+import dev.nyman.enchant.jna.EnchantLib
 
 class EnchantDict(
     private val lib: EnchantLib,
