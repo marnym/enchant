@@ -1,4 +1,4 @@
-package dev.nyman.enchant.kotlin
+package dev.nyman.enchant.kotlin.enchant
 
 import com.sun.jna.Native
 
