@@ -1,6 +1,5 @@
 package dev.nyman.enchant.kotlin
 
-import dev.nyman.enchant.kotlin.enchant.Enchant
 import org.junit.Test
 import kotlin.test.assertEquals
 

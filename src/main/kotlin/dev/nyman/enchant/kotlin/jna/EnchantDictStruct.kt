@@ -1,4 +1,4 @@
-package dev.nyman.enchant.kotlin.enchant
+package dev.nyman.enchant.kotlin.jna
 
 import com.sun.jna.Pointer
 import com.sun.jna.Structure
@@ -17,7 +17,7 @@ import com.sun.jna.Structure.FieldOrder
     "is_word_character"
 )
 // No need to know types of the fields, since we can get the information out with the existing functions
-class EnchantDict : Structure() {
+class EnchantDictStruct : Structure() {
     @JvmField
     var user_data: Pointer? = null
 
